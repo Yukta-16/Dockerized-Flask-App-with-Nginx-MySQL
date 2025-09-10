@@ -163,7 +163,7 @@ You should see `flask_app`, `mysql_db`, and `nginx_proxy` running.
 
 **Yukta Thakur**
 
-* 🌐 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yukta-thakur-39b8b1199/))
+* 🌐 https://www.linkedin.com/in/yukta-thakur-39b8b1199/
 * 💻 DevOps Enthusiast | Cloud Learner | Problem Solver
 
 ---
