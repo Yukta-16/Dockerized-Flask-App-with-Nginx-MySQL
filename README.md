@@ -129,8 +129,11 @@ You should see `flask_app`, `mysql_db`, and `nginx_proxy` running.
 ## 📸 Screenshots (Add after running)
 
 1. Homepage response
-2. `/users` API response
-3. Docker containers running
+   <img width="958" height="291" alt="image" src="https://github.com/user-attachments/assets/e1e90fe6-ca65-4d53-b60f-5b4b95f22647" />
+
+3. `/users` API response
+
+4. Docker containers running
 
 ---
 
