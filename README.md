@@ -51,7 +51,7 @@ docker-flask-app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Yukta-16/Dockerized-Flask-App-with-Nginx-MySQL.git
+git clone https://github.com/Yukta-16/docker-flask-app.git
 cd docker-flask-app
 ```
 
